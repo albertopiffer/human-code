@@ -1,0 +1,35 @@
+Accendo il PC
+
+Apro il browser
+
+Mi collego ad Amazon
+
+Cerco LAMPADA DA TAVOLO
+
+SE è dispoonibile la consegna PRIME E SE prezzo < budget
+		aggiungo al carrello
+		procedo al checkout
+		inserisco indirizzo e metodo di pagamento
+		imposto la confezione regalo e scrivo un biglietto di auguri
+		procedo all'acquisto
+
+ALTRIMENTI
+	cerco PENNA STILOGRAFICA
+
+	SE è dispoonibile la consegna PRIME E SE prezzo < budget
+		aggiungo al carrello
+		procedo al checkout
+		inserisco indirizzo e metodo di pagamento
+		imposto la confezione regalo e scrivo un biglietto di auguri
+		procedo all'acquisto
+	
+	ALTRIMENTI
+		
+		FINCHè il carrello rimane vuoto
+			cerco LIBRO
+				SE è dispoonibile la consegna PRIME E SE prezzo < budget
+					aggiungo a carrello
+					procedo al checkout
+					inserisco indirizzo e metodo di pagamento
+					imposto la confezione regalo e scrivo un biglietto di auguri
+					procedo all'acquisto
