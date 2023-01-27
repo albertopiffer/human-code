@@ -7,6 +7,7 @@ Mi collego ad Amazon
 Cerco LAMPADA DA TAVOLO
 
 SE è dispoonibile la consegna PRIME E SE prezzo < budget
+
 		aggiungo al carrello
 		procedo al checkout
 		inserisco indirizzo e metodo di pagamento
@@ -14,9 +15,11 @@ SE è dispoonibile la consegna PRIME E SE prezzo < budget
 		procedo all'acquisto
 
 ALTRIMENTI
-	cerco PENNA STILOGRAFICA
+
+	Cerco PENNA STILOGRAFICA
 
 	SE è dispoonibile la consegna PRIME E SE prezzo < budget
+
 		aggiungo al carrello
 		procedo al checkout
 		inserisco indirizzo e metodo di pagamento
@@ -26,9 +29,12 @@ ALTRIMENTI
 	ALTRIMENTI
 		
 		FINCHè il carrello rimane vuoto
-			cerco LIBRO
+        
+			Cerco LIBRO
+
 				SE è dispoonibile la consegna PRIME E SE prezzo < budget
-					aggiungo a carrello
+                
+					aggiungo al carrello
 					procedo al checkout
 					inserisco indirizzo e metodo di pagamento
 					imposto la confezione regalo e scrivo un biglietto di auguri
